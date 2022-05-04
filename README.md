@@ -1,6 +1,8 @@
 # cryeptotracker
 
 A new Flutter project.
+**#API**
+i am using coingecko api for crypto data
 
 ## Getting Started
 
